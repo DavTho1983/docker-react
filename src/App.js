@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Bye there!</p>
+        <p>React app running on AWS with Elastic Beanstalk, Travis CI with tests, and Docker!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
